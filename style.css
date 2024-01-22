@@ -1,0 +1,25 @@
+body{
+    margin: 10em;
+}
+div h1{
+    padding: 7px 400px;
+}
+div h3{
+    padding: 7px 500px;
+}
+div.hi1 h4{
+      padding: 0px 400px;
+}
+
+div h2{
+     padding: 7px 400px;
+}
+div.hi1 p{
+    text-align: justify;
+}
+div.hi2 p{
+    text-align: justify;
+    
+ 
+
+}
